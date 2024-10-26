@@ -50,7 +50,7 @@ body {
 .container {
   background: hsl(0, 0%, 100%);
   max-width: 800px;
-  border-radius: 2rem;
+  border-radius: 1.5rem;
 }
 
 .content {
@@ -158,7 +158,7 @@ section {
 
 @media (min-width: 50em) {
   .container {
-    margin: 2em auto;
+    margin: 8em auto;
     padding: 2.5em;
   }
 
